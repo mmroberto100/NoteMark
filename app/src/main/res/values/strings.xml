@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Note Mark</string>
+    <string name="landing_background">Landing background</string>
+    <string name="landing_title">Your Own Collection of Notes</string>
+    <string name="landing_desc">Capture your thoughts and ideas.</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="btn_log_in">Log In</string>
 </resources>
